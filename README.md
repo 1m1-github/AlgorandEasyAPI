@@ -1,6 +1,8 @@
 # AlgorandEasyAPI
 a web3 API for Algorand accessible from web2
 
+note: perhaps the goal of this project is actually better achieved via the AlgoExplorer REST API plus a friend transaction group encoding compiler (into bytecode) ~ but n algorand-sdk with AlgoExplorer REST API actually basically does the same
+
 AlgorandEasyAPI would be `js` code saved on the `IPFS` network that essentially contains
 
 * an algorand sdk
