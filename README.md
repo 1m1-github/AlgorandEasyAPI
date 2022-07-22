@@ -10,7 +10,7 @@ and exposes a simple API to frontend devs to
 
 * connect a user to an Algorand account (1)
 * send transactions of arbitrary complexity to Algorand (2)
-
+* query the chain (3)
 
 AlgorandEasyAPI saves frontend devs from learning and importing an algorand sdk and a wc sdk
 
@@ -38,3 +38,6 @@ the user will connect on their Pera app after following the url
 // todo
 find friendly encoding for arbitrary Algorand transaction groups
 js API will decode and execute given a session id
+
+(3)
+similar to (2)
