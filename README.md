@@ -14,8 +14,8 @@ and exposes a simple API to frontend devs to
 
 AlgorandEasyAPI saves frontend devs from learning and importing an algorand sdk and a WC sdk and a QR code sdk  
 
-Importantly, AlgorandEasyAPI is essentially a 'server' on IPFS ~ it returns code that can be run locally  
-This allows devs to offload complex code into services
+**Importantly, AlgorandEasyAPI is essentially a 'server' on IPFS ~ it returns code that can be run locally  
+This allows devs to offload complex code into services**
 
 ## frontend dev process
 
